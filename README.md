@@ -1,5 +1,5 @@
 I’m @kiisuhh aka. Luca
-Im 15yo and Owner of the SyntheticMC.de Network
+Im 15yo and currently not really active on github
 
 Im a Lua and Java Developer and im currently learning Python.
 
