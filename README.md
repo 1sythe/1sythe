@@ -4,7 +4,8 @@ Im 15yo and currently not really active on github
 Im a Lua and Java Developer and im currently learning Python.
 
 Contact me on Discord:
-kiisuhh#2750
+[![Discord Presence](https://lanyard.cnrad.dev/api/355004590602846208
+                            )](https://discord.com/users/355004590602846208)
 
 
 GitHub Stats:
