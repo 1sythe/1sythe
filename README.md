@@ -1,5 +1,5 @@
-I’m @kiisuhh aka. Luca
-Im 15yo and currently not really active on github
+Hello, I’m @kiisuhh aka. Luca
+![Profile Views](https://komarev.com/ghpvc/?username=Malik-4444&color=blueviolet)
 
 Im a Lua and Java Developer and im currently learning Python.
 
