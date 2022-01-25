@@ -1,5 +1,6 @@
-Hello, I’m @kiisuhh aka. Luca
 ![Profile Views](https://komarev.com/ghpvc/?username=kiisuhh-4444&color=blueviolet)
+Hello, I’m @kiisuhh aka. Luca
+
 
 Im a Lua and Java Developer and im currently learning Python.
 
