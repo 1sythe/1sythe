@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=kiisuhh-4444&color=blueviolet)
+
 ### Hi there 👋, my name is Luca
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/aaaabanner.png)
 
@@ -17,5 +19,3 @@ Skills: JAVA / LUA / PYTHON / HTML / CSS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiisuhh&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiisuhh&show_icons=true&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kiisuhh-4444&color=blueviolet)
