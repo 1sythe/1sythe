@@ -7,7 +7,7 @@ Skills: JAVA / LUA / PYTHON / HTML / CSS
 
 - 🔭 Working on my Discord Conversation Bot Project 
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me: Contact me on discord: 
+- 📫 How to reach me? Contact me on discord: 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/355004590602846208
                             )](https://discord.com/users/355004590602846208)
@@ -15,7 +15,6 @@ Skills: JAVA / LUA / PYTHON / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kiisuhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/x7.luca/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kiisuhh.de)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiisuhh)](https://github.com/anuraghazra/github-readme-stats)
 
