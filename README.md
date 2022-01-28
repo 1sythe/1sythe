@@ -1,18 +1,26 @@
-![Profile Views](https://komarev.com/ghpvc/?username=kiisuhh-4444&color=blueviolet)
+### Hi there 👋, my name is Luca
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/aaaabanner.png)
 
-Hello, I’m @kiisuhh aka. Luca
+ill edit this later
 
+Skills: JAVA / LUA / PYTHON / HTML / CSS
 
-Im a Lua and Java Developer and im currently learning Python.
-
-Contact me on Discord:
+- 🔭 Working on my Discord Conversation Bot Project 
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me: Contact me on discord: 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/355004590602846208
                             )](https://discord.com/users/355004590602846208)
+                            
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kiisuhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/x7.luca/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kiisuhh.de)  
 
-GitHub Stats:
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiisuhh&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiisuhh)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiisuhh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiisuhh&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kiisuhh)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=kiisuhh-4444&color=blueviolet)
