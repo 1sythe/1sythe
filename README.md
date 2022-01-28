@@ -20,6 +20,4 @@ Skills: JAVA / LUA / PYTHON / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiisuhh&show_icons=true&theme=dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kiisuhh)  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=kiisuhh-4444&color=blueviolet)
