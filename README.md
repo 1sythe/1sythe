@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Luca
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/aaaabanner.png)
 
-ill edit this later
-
 Skills: JAVA / LUA / PYTHON / HTML / CSS
 
 - 🔭 Working on my Discord Conversation Bot Project 
