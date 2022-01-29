@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=kiisuhh-4444&color=blueviolet) https://img.shields.io/discord/541259933208018956?label=Join%20my%20Discord%21
+![Profile Views](https://komarev.com/ghpvc/?username=kiisuhh-4444&color=blueviolet) ![Profile Views](https://img.shields.io/discord/541259933208018956?label=Join%20my%20Discord%21)
 
 ### Hi there 👋, my name is Luca
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/aaaabanner.png)
