@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Luca
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/aaaabanner.png)
 
-Skills: JAVA / LUA / PYTHON / HTML / CSS
+Skills: JAVA / LUA / PYTHON / JS / HTML / CSS
 
 - 🔭 Working on my Discord Conversation Bot Project 
 - 🌱 I’m currently learning TypeScript 
