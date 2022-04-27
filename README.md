@@ -6,7 +6,7 @@
 Skills: JAVA / LUA / PYTHON / HTML / CSS
 
 - 🔭 Working on my Discord Conversation Bot Project 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning TypeScript 
 - 📫 How to reach me? Contact me on discord: 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/355004590602846208
