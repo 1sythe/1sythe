@@ -5,7 +5,7 @@
 
 Skills: JAVA / LUA / PYTHON / JS / HTML / CSS
 
-- 🔭 Working on my Discord Conversation Bot Project 
+- 🔭 Working on my Discord AI Conversation Project
 - 🌱 I’m currently learning TypeScript 
 - 📫 How to reach me? Contact me on discord: 
 
