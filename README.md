@@ -1,5 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kiisuhh-4444&color=blueviolet) 
-![Profile Views](https://komarev.com/ghpvc/?username=1sythe-4444&color=blueviolet) 
 
 ### Hi there 👋, my name is Luca
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/aaaabanner.png)
@@ -17,6 +16,6 @@ Skills: JAVA / LUA / PYTHON / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/1sythe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/x7.luca/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://google.de)  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sythe&theme=dark)
+![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=1sythe&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1sythe&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=1sythe&show_icons=true&theme=dark)
