@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="anime girls" title="" height="215px" src="https://tenor.com/view/anime-bocchi-bocchi-the-rock-gif-27010403">
+<img align="right" alt="anime girls" title="" height="215px" src="https://tenor.com/view/anime-bocchi-bocchi-the-rock-gif-27010403.gif">
 
 ### Languages & Tools i used
 
