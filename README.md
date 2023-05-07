@@ -16,13 +16,11 @@
 [![Kali](https://img.shields.io/static/v1?style=for-the-badge&logo=Kali+Linux&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://www.kali.org/)
 [![Mongo](https://img.shields.io/static/v1?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://www.mongodb.com/)
 
-- 🔭 Working on my Discord AI Conversation Project
-- 🌱 I’m currently learning TypeScript 
-- 📫 How to reach me? Contact me on discord: 
-
 ### Connect with Me 
 
-...
+[![Discord](https://img.shields.io/static/v1?style=for-the-badge&logo=Discord&logoColor=FFFFFF&message=Python&color=5865F2&label=)](https://discordapp.com/users/355004590602846208)
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&message=Python&color=E4405F&label=)](https://www.instagram.com/x7.luca/)
+[![AniList](https://img.shields.io/static/v1?style=for-the-badge&logo=AniList&logoColor=FFFFFF&message=Python&color=02A9FF&label=)](https://anilist.co/user/1sythe/)
 
 ---
 
