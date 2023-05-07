@@ -11,16 +11,16 @@
 [![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=CSS3&logoColor=FFFFFF&message=CSS3&color=1572B6&label=)](https://www.w3.org/Style/CSS/)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
-[![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://www.jetbrains.com/pycharm/)
-[![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&logo=WebStorm&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://www.jetbrains.com/webstorm/)
-[![Kali](https://img.shields.io/static/v1?style=for-the-badge&logo=Kali+Linux&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://www.kali.org/)
-[![Mongo](https://img.shields.io/static/v1?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF&message=Code&color=007ACC&label=)](https://www.mongodb.com/)
+[![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF&message=PyCharm&color=1DA456&label=)](https://www.jetbrains.com/pycharm/)
+[![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&logo=WebStorm&logoColor=FFFFFF&message=WebStorm&color=8DD6F9&label=)](https://www.jetbrains.com/webstorm/)
+[![Kali](https://img.shields.io/static/v1?style=for-the-badge&logo=Kali+Linux&logoColor=FFFFFF&message=Kali&color=557C94&label=)](https://www.kali.org/)
+[![Mongo](https://img.shields.io/static/v1?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF&message=Mongo&color=47A248&label=)](https://www.mongodb.com/)
 
 ### Connect with Me 
 
-[![Discord](https://img.shields.io/static/v1?style=for-the-badge&logo=Discord&logoColor=FFFFFF&message=Python&color=5865F2&label=)](https://discordapp.com/users/355004590602846208)
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&message=Python&color=E4405F&label=)](https://www.instagram.com/x7.luca/)
-[![AniList](https://img.shields.io/static/v1?style=for-the-badge&logo=AniList&logoColor=FFFFFF&message=Python&color=02A9FF&label=)](https://anilist.co/user/1sythe/)
+[![Discord](https://img.shields.io/static/v1?style=for-the-badge&logo=Discord&logoColor=FFFFFF&message=Discord&color=5865F2&label=)](https://discordapp.com/users/355004590602846208)
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&message=Instagram&color=E4405F&label=)](https://www.instagram.com/x7.luca/)
+[![AniList](https://img.shields.io/static/v1?style=for-the-badge&logo=AniList&logoColor=FFFFFF&message=AniList&color=02A9FF&label=)](https://anilist.co/user/1sythe/)
 
 ---
 
